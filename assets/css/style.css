@@ -363,6 +363,16 @@ section {
   color: #5b6168;
 }
 
+.experience-meta {
+  display: flex;
+  align-items: baseline;
+}
+
+.experience-date {
+  flex: 0 0 13.5em;
+  white-space: nowrap;
+}
+
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
