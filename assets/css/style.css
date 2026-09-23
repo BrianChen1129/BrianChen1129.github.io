@@ -364,12 +364,14 @@ section {
 }
 
 .experience-meta {
-  display: flex;
+  display: grid;
+  grid-template-columns: 13.75em auto;
+  column-gap: 1.15em;
   align-items: baseline;
 }
 
 .experience-date {
-  flex: 0 0 14.5em;
+  min-width: 0;
   white-space: nowrap;
 }
 
