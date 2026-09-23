@@ -363,18 +363,6 @@ section {
   color: #5b6168;
 }
 
-.experience-meta {
-  display: grid;
-  grid-template-columns: 13.75em auto;
-  column-gap: 1.15em;
-  align-items: baseline;
-}
-
-.experience-date {
-  min-width: 0;
-  white-space: nowrap;
-}
-
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
